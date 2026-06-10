@@ -1,0 +1,11 @@
+﻿id_review,id_product,id_customer,rating,text,date
+1,1,1,5,Great phone!,2025-06-05
+2,2,2,4,Good smartphone,2025-06-06
+3,4,5,5,MacBook is super!,2025-06-07
+4,7,1,4,Decent quality,2025-06-08
+5,9,4,5,Very beautiful dress,2025-06-09
+6,5,3,5,Gaming monster,2025-06-10
+7,13,4,4,Good desk,2025-06-11
+8,3,2,4,Decent budget phone,2025-06-12
+9,8,1,5,Great jeans,2025-06-13
+10,14,3,4,Comfortable chair,2025-06-14

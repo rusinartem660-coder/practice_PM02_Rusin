@@ -1,0 +1,11 @@
+﻿id_category,name,parent_category
+1,Electronics,NULL
+2,Clothing,NULL
+3,Home & Garden,NULL
+4,Smartphones,1
+5,Laptops,1
+6,Mens Clothing,2
+7,Womens Clothing,2
+8,Kids Clothing,2
+9,Furniture,3
+10,Decor,3

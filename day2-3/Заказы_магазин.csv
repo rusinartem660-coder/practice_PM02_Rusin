@@ -1,0 +1,11 @@
+﻿id_order,id_customer,date,status,total_amount
+1,1,2025-06-01,Delivered,199800
+2,2,2025-06-02,Delivered,89900
+3,3,2025-06-03,Processing,134400
+4,4,2025-06-04,Delivered,5000
+5,5,2025-06-05,Shipped,129900
+6,1,2025-06-06,Processing,7500
+7,2,2025-06-07,Delivered,21000
+8,3,2025-06-08,Shipped,159900
+9,4,2025-06-09,Processing,9700
+10,5,2025-06-10,Delivered,45000
