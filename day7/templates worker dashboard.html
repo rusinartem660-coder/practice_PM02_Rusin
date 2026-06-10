@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block title %}Панель работника{% endblock %}
+
+{% block content %}
+<h1>👷 Панель работника</h1>
+<p>Добро пожаловать, <strong>{{ session.login }}</strong>!</p>
+<p>Ваша роль: {% if session.role == 'admin' %}Администратор{% else %}Работник{% endif %}</p>
+
+<div class="menu">
+    <ul>
+        <li><a href="#">🍕 Просмотр заказов</a></li>
+        <li><a href="#">✏️ Изменение статуса заказа</a></li>
+        <li><a href="#">📋 Просмотр товаров</a></li>
+        <li><a href="{{ url_for('logout') }}">🚪 Выход</a></li>
+    </ul>
+</div>
+{% endblock %}
